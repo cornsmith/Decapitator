@@ -2,9 +2,9 @@
 
 *python decapitate.py before.png after.png*
 
-__Two__ arguments:
-1. Path to image file to proces
-2. Path to output image file
+Arguments:
+1. Path to image file to process  
+2. Path to output image file  
 
 Need to have OpenCV installed.
 
