@@ -3,8 +3,8 @@ import cv2
 import sys
 import numpy as np
 
-if len(sys.argv) != 3:
-    print("Usage: python decapitat.py before.png after.png")
+if len(sys.argv) != 2:
+    print "Usage: python decapitat.py before.png after.png"
     exit()
 
 # Parameters
